@@ -1,6 +1,5 @@
 # TCTE-QR
 
-@Authors: Vaibhav Krishna · Vaiva Vasiliauskaite · Nino Antulov‐Fantulin
 
 ## Introduction
 
